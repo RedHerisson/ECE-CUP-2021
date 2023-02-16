@@ -23,7 +23,7 @@ The robot is driven by an ESP68266 card communicating via wifi with a computer o
  
  - Download open CV and build it 
 1 - https://www.youtube.com/watch?v=x5EWlNQ6z5w
-2  - https://www.youtube.com/watch?v=p-6rG6Zgu4U ( for Visual studio only ) 
+2 - https://www.youtube.com/watch?v=p-6rG6Zgu4U ( for Visual studio only ) 
 
 build project from source code
 for testing purpose, You can use OBS ( https://obsproject.com/fr/download ) virtual camera as a camera and create a scene with asset from the repo
