@@ -17,7 +17,7 @@ The robot is driven by an ESP68266 card communicating via wifi with a computer o
  
  - UDP connection between robot and computer for command communication
 
- - code on ESP68266 for network communication, motor driver and last centimeter approach with ultrasound sensor. It receive commands from the computer and execute them. 
+ - code on ESP8266 for network communication, motor driver and last centimeter approach with ultrasound sensor. It receive commands from the computer and execute them. 
  
  ## Setup
  
