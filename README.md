@@ -1,4 +1,5 @@
-# ECE-CUP-2021
+# ECE-CUP-2022
+
 Autonomous robot capable of finding and grabing cube from camera feed
 
 The objective is to retrieve cubes in a particular order and bring them back to a precise area, with an autonomous robot. 
